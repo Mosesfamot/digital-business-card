@@ -19,7 +19,7 @@ body {
 
 #root {
   background: #000;
-  width: 18rem;
+  width: 20rem;
   margin: auto;
   height: 95vh;
   border-radius: 0.8rem 0.8rem 0 0;
@@ -33,7 +33,7 @@ body {
 }
 
 .info-section .user-image {
-  width: 18rem;
+  width: 20rem;
   border-radius: 0.8rem 0.8rem 0 0;
 }
 
@@ -68,7 +68,6 @@ body {
   background: #fff;
   text-decoration: none;
   color: #000;
-  font-weight: 550;
   padding: 0.5rem 1.6rem;
   margin: 0 0.3rem;
   border-radius: 0.5rem;
@@ -77,6 +76,7 @@ body {
 .email-button i,
 .email-button span {
   margin: 0 0.2rem;
+  font-weight: 550;
 }
 
 .button .linkedin-button {
@@ -86,8 +86,7 @@ body {
   background: #529ce1;
   text-decoration: none;
   color: #fff;
-  font-weight: 550;
-  padding: 0.5rem 1.6rem;
+  padding: 0.5rem 1.2rem;
   margin: 0 0.3rem;
   border-radius: 0.5rem;
 }
@@ -95,4 +94,5 @@ body {
 .linkedin-button i,
 .linkedin-button span {
   margin: 0 0.2rem;
+  font-weight: 550;
 }
