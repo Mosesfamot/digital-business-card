@@ -55,6 +55,12 @@ body {
   margin-top: 0.6rem;
 }
 
+.button {
+  display: flex;
+  flex-direction: row;
+  margin: 0.9rem 0;
+}
+
 .button .email-button {
   display: flex;
   justify-content: center;
@@ -64,6 +70,7 @@ body {
   color: #000;
   font-weight: 550;
   padding: 0.5rem 1.6rem;
+  margin: 0 0.3rem;
   border-radius: 0.5rem;
 }
 
@@ -76,10 +83,16 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #0467c3;
+  background: #529ce1;
   text-decoration: none;
-  color: #000;
+  color: #fff;
   font-weight: 550;
   padding: 0.5rem 1.6rem;
+  margin: 0 0.3rem;
   border-radius: 0.5rem;
+}
+
+.linkedin-button i,
+.linkedin-button span {
+  margin: 0 0.2rem;
 }
