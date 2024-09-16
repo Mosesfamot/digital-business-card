@@ -109,3 +109,17 @@ body {
   padding: 0 2rem 0 2rem;
   text-align: left;
 }
+
+.interest-section .interest {
+  color: #fff;
+  font-size: 1.1rem;
+  margin: 0.5rem 0 0 2rem;
+}
+
+.interest-section .interest-paragraph {
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 0 2rem 0 2rem;
+  text-align: left;
+}
+
