@@ -21,7 +21,7 @@ body {
   background: #000;
   width: 20rem;
   margin: auto;
-  height: 95vh;
+  height: 98vh;
   border-radius: 0.8rem;
   margin-top: 0.5rem;
 } 
@@ -122,5 +122,20 @@ body {
   font-size: 0.75rem;
   padding: 0 2rem 0 2rem;
   text-align: left;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.links a {
+  margin: 1.5rem 0.5rem 0.5rem;
+}
+
+.links a i {
+  color: #ccc;
+  font-size: 1.4rem;
 }
 
