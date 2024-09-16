@@ -17,7 +17,7 @@ body {
   background: #ccc;
 }
 
-#root {
+.main {
   background: #000;
   width: 20rem;
   margin: auto;
